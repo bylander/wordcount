@@ -6,7 +6,7 @@ public class TreeNode1 {
 	/** the text */
 	public String word;
 
-	/** the number of occurences */
+	/** the number of occurrences */
 	public int count; 
 
 	/** the left child */
