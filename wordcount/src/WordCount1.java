@@ -88,10 +88,10 @@ public class WordCount1 {
 	}
 
 	/**
-	 * getWord stores the next word or non-space character from standard
-	 * input into its StringBuilder parameter.  It returns the int representation
-	 * of the first character or EOF.  A word is interpreted as any string of
-	 * letters delimited by nonletters.
+	 * getWord stores the next word or nonspace character from
+	 * standard input into its StringBuilder parameter.  It returns
+	 * the int representation of the first character or EOF.  A word
+	 * is interpreted as any string of letters delimited by nonletters.
 	 * <p>
 	 * Corresponds to K&R, p. 136.
 	 *
